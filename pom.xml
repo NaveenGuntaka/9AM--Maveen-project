@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.204.181:8081/repository/ammu_Release/</url>
+            <url>http://172.31.30.209:8081/repository/ammu_Release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.204.181:8081/repository/ammu_snap/</url>
+            <url>http://172.31.30.209:8081/repository/ammu_snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
